@@ -1,20 +1,16 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package autonoma.sistemabiblioteca.app.main;
 
 /**
- *
  * @author Luisa Fernanda Henao
+ * @since 20251603
+ * @version 1.0.0
  */
 public class SistemaBiblioteca {
 
-    /**
-     * @param args the command line arguments
-     */
+  
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
