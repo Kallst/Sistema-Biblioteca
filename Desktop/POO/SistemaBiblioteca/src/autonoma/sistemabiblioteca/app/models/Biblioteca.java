@@ -1,14 +1,14 @@
-
 package autonoma.sistemabiblioteca.app.models;
+
+/**
+ *
+ * @author Luisa Fernanda Henao
+ * @since 20252403
+ * @version 1.0.0
+ */
 
 import java.util.ArrayList;
 import java.util.Comparator;
-
-/**
- * @author Luisa Fernanda Henao
- * @since 20251603
- * @version 1.0.0
- */
 public class Biblioteca {
     //Se crea la lista para almacenar los libros
     private final ArrayList<Libro> libros;
